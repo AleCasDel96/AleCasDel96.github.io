@@ -108,30 +108,35 @@ name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 1
 url = "https://github.com/AleCasDel96/"
+target = "_blank"
 
 #[[params.social]]
 #name = "Gitlab"
 #icon = "fa fa-2x fa-gitlab"
 #weight = 2
 #url = "https://gitlab.com/johndoe/"
+#target = "_blank"
 
 [[params.social]]
 name = "Twitter"
 icon = "fa fa-2x fa-twitter"
 weight = 3
-url = "https://twitter.com/johndoe/"
+url = "https://twitter.com/AlejandroCasDel/"
+target = "_blank"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
 url = "https://www.linkedin.com/in/alejandrocastrillodelgado/"
+target = "_blank"
 
 #[[params.social]]
 #name = "Medium"
 #icon = "fa fa-2x fa-medium"
 #weight = 5
 #url = "https://medium.com/@johndoe"
+#target = "_blank"
 
 [[params.social]]
 name = "mail"
@@ -146,6 +151,7 @@ url = "mailto:alecasdel96@gmail.com"
 #url = "https://myhugosite.com/index.xml"
 #rel = "alternate"
 #type = "application/rss+xml"
+#target = "_blank"
 
 [languages.en]
 languageName = ":uk:"
